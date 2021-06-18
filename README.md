@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Suresh</h1>
 <h3>A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh213&label=Profile%20views&color=0e75b6&style=flat" alt="suresh213" /> </p>
 
 - 📫 How to reach me **asuresh52012@gmail.com**
 
