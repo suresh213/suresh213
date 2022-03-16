@@ -8,8 +8,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/suresh-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh-a" height="30" width="40" /></a>
 <a href="https://instagram.com/suresh_raj_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suresh_raj_as" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sureshraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sureshraj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/suresh36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="suresh36" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suresh_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suresh_a" height="30" width="40" /></a>
 </p>
 
